@@ -1,0 +1,21 @@
+
+.env
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (too large for GitHub)
+data/raw/
+*.json
+*.csv
+
+# Environment
+.conda/
+*.egg
